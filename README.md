@@ -33,26 +33,27 @@ This repository provides:
 
 ## 📌 Citation
 
-If you find this repository useful, please cite our work:
-```
+If you find this repository useful in your research, please consider citing one or more of the following publications:
+
+```bibtex
 @inproceedings{tolie2024enhancing,
-  title={Enhancing underwater situational awareness: RealSense camera integration with deep learning for improved depth perception and distance measurement},
-  author={Tolie, Hamidreza Farhadi and Ren, Jinchang and Hasan, Md Junayed and Kannan, Somasundar},
-  booktitle={Artificial Intelligence for Security and Defence Applications II},
-  volume={13206},
-  pages={34--42},
-  year={2024},
-  organization={SPIE}
+  title     = {Enhancing Underwater Situational Awareness: RealSense Camera Integration with Deep Learning for Improved Depth Perception and Distance Measurement},
+  author    = {Tolie, Hamidreza Farhadi and Ren, Jinchang and Hasan, Md Junayed and Kannan, Somasundar},
+  booktitle = {Artificial Intelligence for Security and Defence Applications II},
+  volume    = {13206},
+  pages     = {34--42},
+  year      = {2024},
+  publisher = {SPIE}
 }
+
 @article{farhadi2024effective,
-  title={Effective Marine Monitoring with Multimodal Sensing and Improved Underwater Robotic Perception towards Environmental Protection and Smart Energy Transition.},
-  author={Farhadi Tolie, Hamidreza and Jinchang, REN and Hasan, Md Junayed and Ping, MA and Kannan, Somasundar and Yinhe, LI},
-  journal={Journal of Geodesy \& Geoinformation Science},
-  volume={7},
-  number={4},
-  year={2024}
+  title   = {Effective Marine Monitoring with Multimodal Sensing and Improved Underwater Robotic Perception towards Environmental Protection and Smart Energy Transition},
+  author  = {Farhadi Tolie, Hamidreza and Ren, Jinchang and Hasan, Md Junayed and Ma, Ping and Kannan, Somasundar and Li, Yinhe},
+  journal = {Journal of Geodesy \& Geoinformation Science},
+  volume  = {7},
+  number  = {4},
+  year    = {2024}
 }
-```
 
 ---
 
