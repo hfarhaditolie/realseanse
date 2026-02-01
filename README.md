@@ -34,7 +34,6 @@ This repository provides:
 ## 📌 Citation
 
 If you find this repository useful, please cite our work:
-
 ```
 @inproceedings{tolie2024enhancing,
   title={Enhancing underwater situational awareness: RealSense camera integration with deep learning for improved depth perception and distance measurement},
@@ -45,8 +44,6 @@ If you find this repository useful, please cite our work:
   year={2024},
   organization={SPIE}
 }
-```
-
 ```
 @article{farhadi2024effective,
   title={Effective Marine Monitoring with Multimodal Sensing and Improved Underwater Robotic Perception towards Environmental Protection and Smart Energy Transition.},
