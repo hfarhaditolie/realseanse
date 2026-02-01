@@ -44,7 +44,6 @@ If you find this repository useful, please cite our work:
   year={2024},
   organization={SPIE}
 }
-```
 @article{farhadi2024effective,
   title={Effective Marine Monitoring with Multimodal Sensing and Improved Underwater Robotic Perception towards Environmental Protection and Smart Energy Transition.},
   author={Farhadi Tolie, Hamidreza and Jinchang, REN and Hasan, Md Junayed and Ping, MA and Kannan, Somasundar and Yinhe, LI},
